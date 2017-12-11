@@ -32,9 +32,10 @@ c.d()
 ```
 (0, c.d)()
 ```
-위 코드는 결과적으로 c.d 를 리턴하지만, 이 함수의 this는 c 가 아니게 된다.
+위 코드는 결과적으로 c.d 를 리턴,실행하지만 이 함수의 this는 c 가 아니게 된다.
 이 함수의 this는 global object가 된다. 즉 window
-또는, strict mode 일 때 undefined 가 된다.
+
+또는, strict mode 일 때는 undefined 가 된다.
 
 결국
 ```
