@@ -6,3 +6,15 @@
 
 # 모르는 개념
 런타임 풋프린트 덕분에 왜 인기를 끌고 있나
+
+
+
+## 메모용
+
+### https://electronjs.org/ vs https://nwjs.io/
+
+### https://github.com/openfaas
+
+### 웹어셈블리
+#### https://developer.mozilla.org/ko/docs/WebAssembly/Concepts
+#### http://webassembly.org/
